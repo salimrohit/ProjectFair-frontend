@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://projectfair-backend-f7s1.onrender.com' //copied and pasted from Postman
